@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="3번 두개 뽑아서 더하기">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="4번 모의고사" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725447643645</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4번 모의고사">
+      <option name="closed" value="true" />
+      <created>1725538253939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725538253939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +191,7 @@
     <MESSAGE value="2번 배열 제어하기" />
     <MESSAGE value="2번 배열제어하기 println" />
     <MESSAGE value="3번 두개 뽑아서 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="3번 두개 뽑아서 더하기" />
+    <MESSAGE value="4번 모의고사" />
+    <option name="LAST_COMMIT_MESSAGE" value="4번 모의고사" />
   </component>
 </project>
