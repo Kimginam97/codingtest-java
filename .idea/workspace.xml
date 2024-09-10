@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="4번 모의고사" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="5번 행렬의곱셉">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,20 +52,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main03.executor": "Run",
-    "Gradle.Build codingtest-java.executor": "Run",
-    "Gradle.codingtest-java [:org.example.Main.main()].executor": "Run",
-    "Gradle.codingtest-java [:org.example.Main01.main()].executor": "Run",
-    "Gradle.codingtest-java [:org.example.Main02.main()].executor": "Run",
-    "Gradle.codingtest-java [:org.example.Main03.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/gimginam/study/back-end/codingtest-java/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main03.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build codingtest-java.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.codingtest-java [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.codingtest-java [:org.example.Main01.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.codingtest-java [:org.example.Main02.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.codingtest-java [:org.example.Main03.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/gimginam/study/back-end/codingtest-java/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.org.example.Main03">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -173,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725538253939</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5번 행렬의곱셉">
+      <option name="closed" value="true" />
+      <created>1725877561315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725877561315</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +204,7 @@
     <MESSAGE value="2번 배열제어하기 println" />
     <MESSAGE value="3번 두개 뽑아서 더하기" />
     <MESSAGE value="4번 모의고사" />
-    <option name="LAST_COMMIT_MESSAGE" value="4번 모의고사" />
+    <MESSAGE value="5번 행렬의곱셉" />
+    <option name="LAST_COMMIT_MESSAGE" value="5번 행렬의곱셉" />
   </component>
 </project>
