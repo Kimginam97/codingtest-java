@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="6번 실패율">
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="7번 방문길이">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main08.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725968983842</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7번 방문길이">
+      <option name="closed" value="true" />
+      <created>1726049966125</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726049966125</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +221,7 @@
     <MESSAGE value="4번 모의고사" />
     <MESSAGE value="5번 행렬의곱셉" />
     <MESSAGE value="6번 실패율" />
-    <option name="LAST_COMMIT_MESSAGE" value="6번 실패율" />
+    <MESSAGE value="7번 방문길이" />
+    <option name="LAST_COMMIT_MESSAGE" value="7번 방문길이" />
   </component>
 </project>
