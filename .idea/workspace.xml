@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="14. 표 편집">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main15.java" afterDir="false" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="15. 요세푸스 문제">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -240,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727179122242</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="15. 요세푸스 문제">
+      <option name="closed" value="true" />
+      <created>1727258807649</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727258807649</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +275,7 @@
     <MESSAGE value="12. 주식가격" />
     <MESSAGE value="13. 크레인 인형 뽑기 게임" />
     <MESSAGE value="14. 표 편집" />
-    <option name="LAST_COMMIT_MESSAGE" value="14. 표 편집" />
+    <MESSAGE value="15. 요세푸스 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="15. 요세푸스 문제" />
   </component>
 </project>
