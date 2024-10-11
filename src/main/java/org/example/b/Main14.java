@@ -1,4 +1,4 @@
-package org.example;
+package org.example.b;
 
 import java.util.Arrays;
 import java.util.Stack;

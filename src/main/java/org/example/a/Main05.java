@@ -1,4 +1,4 @@
-package org.example;
+package org.example.a;
 
 // 5번 행렬의곱셉
 public class Main05 {
