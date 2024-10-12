@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="21. 오픈 채팅방">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main22.java" afterDir="false" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="23. 신고 결과 받기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/a/Main10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/b/Main20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728560005310</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="22. 베스트 앨범">
+      <option name="closed" value="true" />
+      <created>1728644352402</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728644352402</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +338,7 @@
     <MESSAGE value="19. 완주하지 못한 선수" />
     <MESSAGE value="20. 할인행사" />
     <MESSAGE value="21. 오픈 채팅방" />
-    <option name="LAST_COMMIT_MESSAGE" value="21. 오픈 채팅방" />
+    <MESSAGE value="22. 베스트 앨범" />
+    <option name="LAST_COMMIT_MESSAGE" value="22. 베스트 앨범" />
   </component>
 </project>
