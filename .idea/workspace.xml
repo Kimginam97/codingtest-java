@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="23. 신고 결과 받기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728644352402</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="23. 신고 결과 받기">
+      <option name="closed" value="true" />
+      <created>1728719333115</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1728719333115</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,6 +347,7 @@
     <MESSAGE value="20. 할인행사" />
     <MESSAGE value="21. 오픈 채팅방" />
     <MESSAGE value="22. 베스트 앨범" />
-    <option name="LAST_COMMIT_MESSAGE" value="22. 베스트 앨범" />
+    <MESSAGE value="23. 신고 결과 받기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23. 신고 결과 받기" />
   </component>
 </project>
