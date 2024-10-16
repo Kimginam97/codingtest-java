@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="24. 메뉴리뉴얼" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="25. 트리순회">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728991515461</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="25. 트리순회">
+      <option name="closed" value="true" />
+      <created>1729030292792</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1729030292792</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +364,7 @@
     <MESSAGE value="22. 베스트 앨범" />
     <MESSAGE value="23. 신고 결과 받기" />
     <MESSAGE value="24. 메뉴리뉴얼" />
-    <option name="LAST_COMMIT_MESSAGE" value="24. 메뉴리뉴얼" />
+    <MESSAGE value="25. 트리순회" />
+    <option name="LAST_COMMIT_MESSAGE" value="25. 트리순회" />
   </component>
 </project>
