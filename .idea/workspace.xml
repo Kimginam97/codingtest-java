@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="25. 트리순회">
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="26. 예상 대진표">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -327,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729030292792</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="26. 예상 대진표">
+      <option name="closed" value="true" />
+      <created>1729116567519</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1729116567519</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,6 +374,7 @@
     <MESSAGE value="23. 신고 결과 받기" />
     <MESSAGE value="24. 메뉴리뉴얼" />
     <MESSAGE value="25. 트리순회" />
-    <option name="LAST_COMMIT_MESSAGE" value="25. 트리순회" />
+    <MESSAGE value="26. 예상 대진표" />
+    <option name="LAST_COMMIT_MESSAGE" value="26. 예상 대진표" />
   </component>
 </project>
