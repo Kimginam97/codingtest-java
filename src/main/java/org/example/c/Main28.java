@@ -1,3 +1,5 @@
+package org.example.c;
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.HashSet;

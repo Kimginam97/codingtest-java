@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="27. 다단계 칫솔 판매">
-      <change afterPath="$PROJECT_DIR$/Main28.java" afterDir="false" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="28. 양과 늑대">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/c/Main28.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729247076127</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="28. 양과 늑대">
+      <option name="closed" value="true" />
+      <created>1729462380458</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729462380458</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +368,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2번 배열 제어하기" />
     <MESSAGE value="2번 배열제어하기 println" />
     <MESSAGE value="3번 두개 뽑아서 더하기" />
     <MESSAGE value="4번 모의고사" />
@@ -384,6 +392,7 @@
     <MESSAGE value="25. 트리순회" />
     <MESSAGE value="26. 예상 대진표" />
     <MESSAGE value="27. 다단계 칫솔 판매" />
-    <option name="LAST_COMMIT_MESSAGE" value="27. 다단계 칫솔 판매" />
+    <MESSAGE value="28. 양과 늑대" />
+    <option name="LAST_COMMIT_MESSAGE" value="28. 양과 늑대" />
   </component>
 </project>
