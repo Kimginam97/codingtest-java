@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="30. 간단한 유니온-파인드 알고리즘 구현하기">
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="31. 포켓몬">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/d/Main32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/gimginam/study/back-end/codingtest-java/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.Main03">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="codingtest-java.main" />
@@ -111,22 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main03" />
-      <module name="codingtest-java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.Main03" />
         <item itemvalue="Application.Main03" />
         <item itemvalue="Application.Main02" />
         <item itemvalue="Application.Main01" />
@@ -367,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729678566378</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="31. 포켓몬">
+      <option name="closed" value="true" />
+      <created>1729720664461</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729720664461</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +377,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="4번 모의고사" />
     <MESSAGE value="5번 행렬의곱셉" />
     <MESSAGE value="6번 실패율" />
     <MESSAGE value="7번 방문길이" />
@@ -407,6 +401,7 @@
     <MESSAGE value="28. 양과 늑대" />
     <MESSAGE value="29. 길찾기 게임" />
     <MESSAGE value="30. 간단한 유니온-파인드 알고리즘 구현하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="30. 간단한 유니온-파인드 알고리즘 구현하기" />
+    <MESSAGE value="31. 포켓몬" />
+    <option name="LAST_COMMIT_MESSAGE" value="31. 포켓몬" />
   </component>
 </project>
