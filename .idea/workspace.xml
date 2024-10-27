@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="31. 포켓몬">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/d/Main32.java" afterDir="false" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="32. 영어 끝말잇기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/d/Main33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -362,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729720664461</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="32. 영어 끝말잇기">
+      <option name="closed" value="true" />
+      <created>1729921926885</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729921926885</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5번 행렬의곱셉" />
     <MESSAGE value="6번 실패율" />
     <MESSAGE value="7번 방문길이" />
     <MESSAGE value="8번 올바른 괄호" />
@@ -402,6 +409,7 @@
     <MESSAGE value="29. 길찾기 게임" />
     <MESSAGE value="30. 간단한 유니온-파인드 알고리즘 구현하기" />
     <MESSAGE value="31. 포켓몬" />
-    <option name="LAST_COMMIT_MESSAGE" value="31. 포켓몬" />
+    <MESSAGE value="32. 영어 끝말잇기" />
+    <option name="LAST_COMMIT_MESSAGE" value="32. 영어 끝말잇기" />
   </component>
 </project>
