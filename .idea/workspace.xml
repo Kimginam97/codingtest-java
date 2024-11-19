@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="37. 게임 맵 최단거리">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/d/Main38.java" afterDir="false" />
+    <list default="true" id="da959028-eb34-453a-9250-58d5e436fa77" name="Changes" comment="38. 네트워크">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/d/Main39.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -410,7 +410,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731363238847</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="38. 네트워크">
+      <option name="closed" value="true" />
+      <created>1731449448847</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1731449448847</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -425,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="13. 크레인 인형 뽑기 게임" />
     <MESSAGE value="14. 표 편집" />
     <MESSAGE value="15. 요세푸스 문제" />
     <MESSAGE value="16. 기능개발" />
@@ -450,6 +457,7 @@
     <MESSAGE value="35. 너비 우선 탐색 순회" />
     <MESSAGE value="36. 다익스트라 알고리즘" />
     <MESSAGE value="37. 게임 맵 최단거리" />
-    <option name="LAST_COMMIT_MESSAGE" value="37. 게임 맵 최단거리" />
+    <MESSAGE value="38. 네트워크" />
+    <option name="LAST_COMMIT_MESSAGE" value="38. 네트워크" />
   </component>
 </project>
